@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `USDCAD_3m.csv` (18,488 rows, `2026-07-09` -> `2026-09-02`, 1.77 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdcad)** — **3,068,880** `3m` rows (full `1m`: 9,146,902), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `USDCAD_3m.csv` (18,480 rows, `2026-07-09` -> `2026-09-02`, 1.76 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdcad)** — **3,068,880** `3m` rows (full `1m`: 9,133,625), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | US Dollar / Canadian Dollar · Forex | US Dollar / Canadian Dollar · Forex |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,488 | **3,068,880** |
-| Size | 1.77 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdcad) |
+| 3m rows | 18,480 | **3,068,880** |
+| Size | 1.76 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdcad) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `USDCAD_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usdcad) |
 | Coverage report | — | [USDCAD coverage](https://getdata.finance/coverage/usdcad) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USDCAD_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:09:00+00:00 | 1.41596 | 1.41612 | 1.41586 | 1.4161 | 311 |
-| 2026-07-09T13:12:00+00:00 | 1.4161 | 1.41623 | 1.41607 | 1.4161 | 268 |
-| 2026-07-09T13:15:00+00:00 | 1.4161 | 1.41612 | 1.41551 | 1.41566 | 744 |
-| 2026-07-09T13:18:00+00:00 | 1.41566 | 1.41611 | 1.41566 | 1.41597 | 585 |
-| 2026-07-09T13:21:00+00:00 | 1.41597 | 1.41602 | 1.41579 | 1.41581 | 545 |
+| 2026-07-09T13:33:00+00:00 | 1.4157 | 1.41603 | 1.41569 | 1.41601 | 726 |
+| 2026-07-09T13:36:00+00:00 | 1.41601 | 1.41616 | 1.41592 | 1.41616 | 520 |
+| 2026-07-09T13:39:00+00:00 | 1.41616 | 1.41632 | 1.41601 | 1.41606 | 638 |
+| 2026-07-09T13:42:00+00:00 | 1.41606 | 1.41641 | 1.41606 | 1.41635 | 591 |
+| 2026-07-09T13:45:00+00:00 | 1.41635 | 1.4165 | 1.41631 | 1.41637 | 658 |
 
 **Last rows**
 
